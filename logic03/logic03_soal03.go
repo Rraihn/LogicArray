@@ -1,6 +1,6 @@
 package logic03
 
-import array2 "github.com/aronipurwanto/golang-logic-dasar/array"
+import array2 "github.com/Rraihn/logic-dasar2/array"
 
 func Logic03Soal03(n int) {
 	// 1. create array

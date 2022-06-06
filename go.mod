@@ -1,3 +1,3 @@
-module github.com/aronipurwanto/golang-logic-dasar
+module github.com/Rraihn/logic-dasar2
 
 go 1.18
