@@ -19,9 +19,9 @@ func Logic03Soal03(n int) {
 			} else if i > j && j >= nt {
 				array[i][j] = int32(angka) // angka di convert ke int32
 			} else if i+j < n-1 && i >= nt {
-				array[i][j] = int32(angka)
+				array[i][j] = int32(angka) // angka di convert ke int32
 			} else if i+j > n-1 && i <= nt {
-				array[i][j] = int32(angka)
+				array[i][j] = int32(angka) // angka di convert ke int32
 			}
 		}
 
